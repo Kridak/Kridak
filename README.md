@@ -3,7 +3,7 @@
 - 👀 I’m interested in Software Development
 - 🌱 I’m currently learning Python, Node JS
 - 💞️ I’m looking for Opportunities in Backend Development
-- 📫 How
+- 📫 Reach me through my LinkedIn
 
 <!---
 Kridak/Kridak is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
