@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @Kridak
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- Currenty Working as Software Developer in a BSFI based MNC.
+- 👀 I’m interested in Software Development
+- 🌱 I’m currently learning Python, Node JS
+- 💞️ I’m looking for Opportunities in Backend Development
+- 📫 How
 
 <!---
 Kridak/Kridak is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
